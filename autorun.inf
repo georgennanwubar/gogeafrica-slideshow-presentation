@@ -1,0 +1,5 @@
+[Autorun]
+Open=GAP.exe
+Icon=setup.ico
+Title="Goge Africa Presentation"
+Action="Play Goge Africa Presentation"
